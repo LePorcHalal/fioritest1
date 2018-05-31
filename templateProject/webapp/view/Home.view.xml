@@ -1,0 +1,8 @@
+
+
+<mvc:View controllerName="templateProject.controller.View1" xmlns:html = "http://www.w3.org/1999/xhtml" xmlns:mvc = "sap.ui.core.mvc"
+	xmlns = "sap.m" xmlns:semantic = "sap.m.semantic">
+	<semantic:FullscreenPage title="Fullscreen">
+		
+	</semantic:FullscreenPage>
+</mvc:View>
